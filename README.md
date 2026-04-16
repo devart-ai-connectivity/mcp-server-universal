@@ -101,9 +101,5 @@ You can find answers to your questions and share feedback or suggestions about t
 
 Universal MCP Server is planned as a paid product.
 
-- Subscription license
-- Perpetual license
-
-## Release status
-
-This repository is being prepared as the product shell for Devart MCP Server Universal. Code and installation artifacts may be added separately.
+- Subscription license: 99$
+- Perpetual license: 199$
