@@ -33,13 +33,15 @@ Devart MCP Server Universal is designed for teams that need practical, secure AI
 
 Devart MCP Server Universal sits between your AI tool and your data source.
 
+![Devart MCP Server architecture](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-server-architecture.png)
+
 1. An AI tool sends a natural-language request to the MCP server.
 2. The MCP server processes the request and generates SQL.
 3. The ODBC driver translates and sends the request to the target data source.
 4. The data source returns the data.
 5. The MCP server transforms the result into output suitable for AI processing.
 
-![Devart MCP Server architecture](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-server-architecture.png)
+
 
 ## Quick start
 
