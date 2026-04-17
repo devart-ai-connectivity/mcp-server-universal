@@ -1,10 +1,12 @@
 [![Devart MCP Server Universal](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp_server_universal_banner.png)](https://www.devart.com/mcp/universal/)
 
+30 days free trial &nbsp;•&nbsp; Works with any ODBC-accessible source &nbsp;•&nbsp; Claude · Copilot · JetBrains
+
 # Devart MCP Server Universal
 
 Self-hosted MCP server for secure AI access to databases and cloud applications through ODBC.
 
-Devart MCP Server Universal is a self-hosted middleware component that connects AI tools to databases and cloud applications through ODBC — without custom development for each data source. With on-premises deployment, it keeps data inside your infrastructure and out of third-party SaaS services.
+Devart MCP Server Universal is a middleware component that sits between your AI tool and any ODBC-accessible data source — without custom development for each connection. With on-premises deployment, it keeps data inside your infrastructure and out of third-party SaaS services.
 
 <div align="center">
 
