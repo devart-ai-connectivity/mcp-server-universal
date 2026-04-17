@@ -1,10 +1,10 @@
 [![Devart MCP Server Universal](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp_server_universal_banner.png)](https://www.devart.com/mcp/universal/)
 
-30 days free trial &nbsp;•&nbsp; Works with any ODBC-accessible source &nbsp;•&nbsp; Claude · Copilot · JetBrains
-
 # Devart MCP Server Universal
 
 Self-hosted MCP server for secure AI access to databases and cloud applications through ODBC.
+
+30 days free trial &nbsp;•&nbsp; Works with any ODBC-accessible source &nbsp;•&nbsp; Claude · Copilot · JetBrains
 
 Devart MCP Server Universal is a middleware component that sits between your AI tool and any ODBC-accessible data source — without custom development for each connection. With on-premises deployment, it keeps data inside your infrastructure and out of third-party SaaS services.
 
@@ -57,11 +57,9 @@ Configure a custom ODBC connection directly in the product UI.
 
 ## Supported AI tools
 
-| AI tool | Integration guide |
-| --- | --- |
-| Claude Desktop | [Integrate with Claude Desktop](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-claude-desktop/) |
-| GitHub Copilot | [Integrate with GitHub Copilot](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-github-copilot/) |
-| JetBrains IDEs | [Integrate with JetBrains IDE](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-jetbrains-ide/) |
+[![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-supported-5B4FE8?logo=anthropic&logoColor=white)](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-claude-desktop/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-supported-0078D4?logo=github&logoColor=white)](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-github-copilot/)
+[![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-supported-FE2857?logo=jetbrains&logoColor=white)](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-jetbrains-ide/)
 
 And other MCP-compatible AI tools.
 
