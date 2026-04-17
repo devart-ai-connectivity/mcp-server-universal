@@ -8,6 +8,12 @@ Devart MCP Server Universal connects AI tools to a wide range of databases and c
 
 With self-hosted and on-premises deployment, it keeps data inside your infrastructure and reduces the risk of exposing sensitive information through third-party SaaS services.
 
+<div align="center">
+
+**[⬇ Download Devart MCP Server Universal](https://www.devart.com/mcp/universal/)** — 30-day free trial, no credit card required &nbsp;&nbsp;|&nbsp;&nbsp; **[📖 Documentation](https://docs.devart.com/mcp-server-universal/)**
+
+</div>
+
 ## Why Universal
 
 Use one MCP layer for multiple data sources instead of deploying and maintaining a separate integration for every system.
@@ -56,7 +62,8 @@ Configure a custom ODBC connection directly in the product UI.
 | Claude Desktop | [Integrate with Claude Desktop](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-claude-desktop/) |
 | GitHub Copilot | [Integrate with GitHub Copilot](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-github-copilot/) |
 | JetBrains IDEs | [Integrate with JetBrains IDE](https://docs.devart.com/mcp-server-universal/ai-integration/integrate-with-jetbrains-ide/) |
-| Other MCP-compatible tools | [AI integration overview](https://docs.devart.com/mcp-server-universal/ai-integration/) |
+
+And other MCP-compatible AI tools.
 
 ## Quick start
 
@@ -66,18 +73,14 @@ Configure a custom ODBC connection directly in the product UI.
 4. Connect your AI tool using the integration guide for your tool.
 5. Run your first natural-language query.
 
-## Documentation
-
-[docs.devart.com/mcp-server-universal](https://docs.devart.com/mcp-server-universal/)
-
 ## Pricing
 
-Devart MCP Server is free. A license for the corresponding [Devart ODBC Driver](https://www.devart.com/odbc/) is required to connect to the target data source.
+- Subscription license: $99/year
+- Perpetual license: $199
 
-- ODBC Driver subscription: $99/year
-- ODBC Driver perpetual license: $199
+A 30-day free trial is available — no credit card required.
 
-A 30-day free trial is available for all ODBC Drivers — no credit card required.
+A compatible [Devart ODBC Driver](https://www.devart.com/odbc/) for the target data source is required separately. Existing ODBC Driver licenses are supported.
 
 ## Support
 
