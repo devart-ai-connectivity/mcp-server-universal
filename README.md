@@ -14,7 +14,7 @@ Devart MCP Server Universal is a middleware component that sits between your AI 
 
 </div>
 
-## Why Universal
+## Why Universal MCP Sever
 
 Use one MCP layer for multiple data sources instead of deploying and maintaining a separate integration for every system.
 
