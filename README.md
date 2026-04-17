@@ -4,9 +4,7 @@
 
 Self-hosted MCP server for secure AI access to databases and cloud applications through ODBC.
 
-Devart MCP Server Universal connects AI tools to a wide range of databases and cloud applications through one MCP layer — without custom development for each source.
-
-With self-hosted and on-premises deployment, it keeps data inside your infrastructure and reduces the risk of exposing sensitive information through third-party SaaS services.
+Devart MCP Server Universal is a self-hosted middleware component that connects AI tools to databases and cloud applications through ODBC — without custom development for each data source. With on-premises deployment, it keeps data inside your infrastructure and out of third-party SaaS services.
 
 <div align="center">
 
