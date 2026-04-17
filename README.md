@@ -39,6 +39,8 @@ Devart MCP Server Universal sits between your AI tool and your data source.
 4. The data source returns the data.
 5. The MCP server transforms the result into output suitable for AI processing.
 
+![Devart MCP Server architecture](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-server-architecture.png)
+
 ## Quick start
 
 1. [Install](#installation) Devart MCP Server Universal.
